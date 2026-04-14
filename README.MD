@@ -1,0 +1,1 @@
+O código faz um rosa pulsante a partir de um contador que aumenta a intensidade do pwm em 1% a cada 25ms, indo de 0 a 100% em 2,5 seg e depois de 100% a 0 em 2,5seg, totalizando um ciclo pulsante rosa a cada 5 segundos.
